@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "f6d44375afa00973576920aab2a135bd"
+build_time: [533334344, 26529000]
+inputs:
+  "/Users/yuhuan/work/proj/swift/example-package-fisheryates/Sources/Fisher-Yates_Shuffle.swift": [533334314, 0]
+  "/Users/yuhuan/work/proj/swift/example-package-fisheryates/Sources/Random.swift": [533334327, 0]

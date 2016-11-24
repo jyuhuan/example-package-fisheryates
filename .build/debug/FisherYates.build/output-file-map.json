@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yuhuan/work/proj/swift/example-package-fisheryates/.build/debug/FisherYates.build/master.swiftdeps"
+  },
+  "/Users/yuhuan/work/proj/swift/example-package-fisheryates/Sources/Fisher-Yates_Shuffle.swift": {
+    "dependencies": "/Users/yuhuan/work/proj/swift/example-package-fisheryates/.build/debug/FisherYates.build/Fisher-Yates_Shuffle.d",
+    "object": "/Users/yuhuan/work/proj/swift/example-package-fisheryates/.build/debug/FisherYates.build/Fisher-Yates_Shuffle.swift.o",
+    "swiftmodule": "/Users/yuhuan/work/proj/swift/example-package-fisheryates/.build/debug/FisherYates.build/Fisher-Yates_Shuffle~partial.swiftmodule",
+    "swift-dependencies": "/Users/yuhuan/work/proj/swift/example-package-fisheryates/.build/debug/FisherYates.build/Fisher-Yates_Shuffle.swiftdeps"
+  },
+  "/Users/yuhuan/work/proj/swift/example-package-fisheryates/Sources/Random.swift": {
+    "dependencies": "/Users/yuhuan/work/proj/swift/example-package-fisheryates/.build/debug/FisherYates.build/Random.d",
+    "object": "/Users/yuhuan/work/proj/swift/example-package-fisheryates/.build/debug/FisherYates.build/Random.swift.o",
+    "swiftmodule": "/Users/yuhuan/work/proj/swift/example-package-fisheryates/.build/debug/FisherYates.build/Random~partial.swiftmodule",
+    "swift-dependencies": "/Users/yuhuan/work/proj/swift/example-package-fisheryates/.build/debug/FisherYates.build/Random.swiftdeps"
+  }
+}
